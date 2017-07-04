@@ -528,6 +528,7 @@
 				17325E761EDEA40500734B95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		17325E771EDEA40500734B95 /* Build configuration list for PBXNativeTarget "TiltMazeTests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +537,7 @@
 				17325E791EDEA40500734B95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		17325E7A1EDEA40500734B95 /* Build configuration list for PBXNativeTarget "TiltMazeUITests" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +546,7 @@
 				17325E7C1EDEA40500734B95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
